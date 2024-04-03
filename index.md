@@ -19,9 +19,9 @@ Welcome to my page!
 
 ### Coursework
 >courses WIP is marked, courses need to take is blank
-- [x] cse110, ece101, ece108
-- [ ] cse120, cse142l
-- [ ] cse/ece electives
+[x] cse110, ece101, ece108
+[ ] cse120, cse142l
+[ ] cse/ece electives
 
 ### Things Learned Today at Lab
 - Use `git branch` to creat a new branch
