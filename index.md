@@ -3,11 +3,11 @@
 Welcome to my page!
 
 ## Categories
-- **[About Me](https://github.com/ChenyuTang98/cse110/blob/add-read-me/index.md#about-me)**
-  -  **[Connect with Me](https://github.com/ChenyuTang98/cse110/blob/add-read-me/index.md#connect-with-me)**
-- **[Coursework](https://github.com/ChenyuTang98/cse110/blob/add-read-me/index.md#coursework)**
-- **[Things Learned Today at Lab](https://github.com/ChenyuTang98/cse110/blob/add-read-me/index.md#things-learned-today-at-lab)**
-- **[Favorite Dramas](https://github.com/ChenyuTang98/cse110/blob/add-read-me/index.md#favorite-dramas)**
+- **[About Me](https://github.com/ChenyuTang98/cse110/blob/main/index.md#about-me)**
+  -  **[Connect with Me](https://github.com/ChenyuTang98/cse110/blob/main/index.md#connect-with-me)**
+- **[Coursework](https://github.com/ChenyuTang98/cse110/blob/main/index.md#coursework)**
+- **[Things Learned Today at Lab](https://github.com/ChenyuTang98/cse110/blob/main/index.md#things-learned-today-at-lab)**
+- **[Favorite Dramas](https://github.com/ChenyuTang98/cse110/blob/main/index.md#favorite-dramas)**
 
 
 ### About Me
