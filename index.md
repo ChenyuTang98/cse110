@@ -12,7 +12,7 @@ Welcome to my page!
 ### About Me
 - I'm a computer engineering major student, been taken ece courses recently so haven't code in java/python/c++ for quite some time.
 - I have two adorable cats, and they're with my brother right now. I'm taking tennis lesson this quarter. Here are the cute photo of my cats.
-![image](/B53678ED-20BB-453E-95B7-57636453CFC0_1_105_c.jpeg)
+![image](./B53678ED-20BB-453E-95B7-57636453CFC0_1_105_c.jpeg)
 
 #### Connect with Me
 - Find me on [LinkedIn](https://www.linkedin.com/in/chenyu-tang-tang9817)
